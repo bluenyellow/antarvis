@@ -1,5 +1,6 @@
 # Antarvis
-exe file of Antarvis 2.0 Video Management System software
+.exe installation file of Antarvis 2.0 Video Management System software
+
 
 https://archive.org/download/antar-vis-2.0-20210317/AntarVis%202.0-20210317.exe
 
